@@ -1,6 +1,6 @@
 #include <sys/types.h>
 #include <fcntl.h>
-#include <unistd.h>  //dups dentro de esta lib
+#include <unistd.h>  //dups dentro desta lib
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
